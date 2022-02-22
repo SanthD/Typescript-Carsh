@@ -1,0 +1,26 @@
+{
+  "name": "Typescript-Carsh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts -w ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanthD/Typescript-Carsh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanthD/Typescript-Carsh/issues"
+  },
+  "homepage": "https://github.com/SanthD/Typescript-Carsh#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "font-awesome": "^4.7.0",
+    "typescript": "^4.5.5"
+  }
+}
