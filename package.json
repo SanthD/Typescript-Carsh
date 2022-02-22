@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc index.ts -w ",
-    "build": "webpack"
-  },
+    "start": "tsc index.ts -w"  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SanthD/Typescript-Carsh.git"
